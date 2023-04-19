@@ -1,0 +1,61 @@
+*{
+    background-color: rgba(25, 158, 211, 0.918);
+}
+th {
+    border: 3px solid white;
+    width: 300px;
+    height: 88px;
+    background-color: aliceblue;  
+    opacity: 20px;
+}
+.pracedure
+{
+    background-color: rgba(25, 158, 211, 0.918);
+    border: 3px solid white;
+    width: 600px;
+    height: 88px;
+    color: aliceblue;
+}
+h1, p1
+ { 
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
+h2{
+    margin-right: 300px;
+}
+h3 {
+    justify-content: center;
+    display: flex;
+    margin-left: -150px;
+    font-size: auto;
+}
+table {
+    background-color: rgba(25, 158, 211, 0.918);
+    border: 2px solid rgba(25, 158, 211, 0.918);;
+    width: 1200px;
+    height: 800px;
+    justify-content: center;
+    display: flex;
+    border-spacing: 37px 51px;
+}
+label{
+    color: white;
+}
+button {
+    display: flex;
+    justify-content: center;
+    width: 660px;
+    height: 88px;
+    background-color: aqua;
+    margin-left: 270px;
+    font-size: 300%;
+    color: wheat;
+}
+#checkbox{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+
+}
