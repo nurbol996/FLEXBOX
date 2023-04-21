@@ -1,13 +1,6 @@
 *{
     background-color: rgba(25, 158, 211, 0.918);
 }
-th {
-    border: 3px solid white;
-    width: 300px;
-    height: 88px;
-    background-color: aliceblue;  
-    opacity: 20px;
-}
 .pracedure
 {
     background-color: rgba(25, 158, 211, 0.918);
@@ -23,12 +16,13 @@ h1, p1
     justify-content: center;
 }
 h2{
-    margin-right: 300px;
+margin-right: 400px;
+justify-content: left;
 }
 h3 {
-    justify-content: center;
+    justify-content: left;
     display: flex;
-    margin-left: -150px;
+    
     font-size: auto;
 }
 table {
@@ -46,16 +40,41 @@ label{
 button {
     display: flex;
     justify-content: center;
-    width: 660px;
+    width: 610px;
     height: 88px;
-    background-color: aqua;
-    margin-left: 270px;
+    background-color: rgb(36, 112, 184);
     font-size: 300%;
     color: wheat;
+    margin: auto;
 }
 #checkbox{
     display: flex;
     justify-content: center;
-    margin-left: 100px;
+    
+}
+#user-name{
+    border: 3px solid white; 
+    width: 282px;
+    height: 88px;
+ background-color: aliceblue;  
+margin-left: 20PX;
+}
+.input-container{
+    margin-top: 15px;
+    margin-left: -25px;
+    display: flex;
+    justify-content: center;      
+}
+.table{
+    border: 2px solid white;
+    width: 600px;
+    height: 200%;
+   margin: auto;
+   margin-top: 20px;
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   overflow: auto;
+
 
 }
