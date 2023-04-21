@@ -9,7 +9,7 @@
     height: 88px;
     color: aliceblue;
 }
-h1, p1
+h1, p
  { 
     display: flex;
     color: aliceblue;
@@ -52,7 +52,7 @@ button {
     justify-content: center;
     
 }
-#user-name{
+.user-name{
     border: 3px solid white; 
     width: 282px;
     height: 88px;
